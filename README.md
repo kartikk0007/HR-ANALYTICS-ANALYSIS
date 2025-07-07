@@ -3,4 +3,7 @@ This HR Analytics project focuses on understanding employee attrition patterns u
 
 ![image](https://github.com/kartikk0007/HR-ANALYTICS-ANALYSIS/blob/main/DASHBOARD_1.png?raw=true)
 
+![image](https://github.com/kartikk0007/HR-ANALYTICS-ANALYSIS/blob/main/DASHBOARD_2.png?raw=true)
+
+![image](https://github.com/kartikk0007/HR-ANALYTICS-ANALYSIS/blob/main/DASHBOARD_3.png?raw=true)
 
